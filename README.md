@@ -1,47 +1,69 @@
-👋 Hi, I'm Ajay
+# 👋 Hi, I'm Ajay Komirishetty
 
-Senior Software Engineer | AI Engineer
+### Senior Software Engineer · AI Engineer
 
-I build production applications across AI, backend, and frontend —
-with a focus on LLMs, agentic systems, RAG, and scalable web applications.
+I build **AI-powered products, agentic workflows, and scalable full-stack applications**.
 
-AI / LLM
-├── Agent orchestration
-├── RAG & vector databases
-├── Prompt engineering
-├── LLM APIs
-└── AI application development
+I enjoy taking ideas from **prototype → production**, working across AI, backend, frontend, and cloud infrastructure.
 
-Engineering
-├── Ruby on Rails
-├── TypeScript / Node.js
-├── React / Angular
-├── PostgreSQL
-├── Docker / Kubernetes
-└── GCP / AWS
+---
 
-🚀 Featured Projects
+## 🧠 What I Build
 
-[AI Project]
-AI-powered application...
-→ Architecture | RAG | Agents | LLM
+🤖 **AI & Agentic Systems**  
+LLM applications · Agent orchestration · RAG · Vector databases · Prompt engineering
 
-[Full-stack Project]
-Production-style web application...
-→ Rails | React | PostgreSQL
+⚙️ **Backend & APIs**  
+Ruby on Rails · Node.js · TypeScript · Python · PostgreSQL · Redis
 
-[Backend Project]
-API / distributed system...
-→ Node.js | TypeScript | Docker
+🎨 **Frontend**  
+React · Angular · TypeScript · Vite
 
-💼 What I work on
+☁️ **Cloud & Infrastructure**  
+AWS · GCP · Docker · Kubernetes · CI/CD
 
-• AI-powered applications
-• Agentic workflows
-• Backend systems and APIs
-• Full-stack products
-• Cloud infrastructure
+---
 
-📫 Connect
+## 🚀 Featured Work
 
-[LinkedIn](https://www.linkedin.com/in/ajay-komirishetty/) 
+### 🤖 AI-Powered Applications
+Building AI systems that use LLMs, agents, retrieval, and orchestration to automate real-world workflows.
+
+**Focus:** LLMs · RAG · Agents · Vector DBs · Prompt Engineering
+
+### ⚡ Full-Stack Applications
+Production-oriented applications built across frontend, backend, APIs, databases, and cloud infrastructure.
+
+**Focus:** Rails · React · TypeScript · PostgreSQL · Docker
+
+### 🔧 Backend & Distributed Systems
+APIs and backend systems designed with reliability, scalability, and maintainability in mind.
+
+**Focus:** Node.js · TypeScript · Ruby · PostgreSQL · Redis
+
+---
+
+## 💡 How I Think About Engineering
+
+> Build something simple first.  
+> Measure what doesn't work.  
+> Iterate quickly.  
+> Then make it scalable.
+
+I'm especially interested in the intersection of **AI + software engineering + product development**.
+
+---
+
+## 📌 Currently Interested In
+
+- Agentic AI & LLM applications
+- RAG and contextual intelligence
+- AI developer tools
+- Distributed backend systems
+- Building products end-to-end
+
+---
+
+## 🤝 Let's Connect
+
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ajay-komirishetty/)) · [Email](mailto:komirishettyajay@gmail.com)
