@@ -44,4 +44,4 @@ API / distributed system...
 
 📫 Connect
 
-LinkedIn | Email | Portfolio
+[LinkedIn](https://www.linkedin.com/in/ajay-komirishetty/) 
