@@ -66,4 +66,4 @@ I'm especially interested in the intersection of **AI + software engineering + p
 
 ## 🤝 Let's Connect
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ajay-komirishetty/)) · [Email](mailto:komirishettyajay@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/ajay-komirishetty/]) · [Email](mailto:komirishettyajay@gmail.com)
