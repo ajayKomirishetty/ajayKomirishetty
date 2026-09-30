@@ -1,69 +1,62 @@
-# 👋 Hi, I'm Ajay Komirishetty
+# Hi there, I'm Ajay Komirishetty 👋
 
-### Senior Software Engineer · AI Engineer
+**Senior Software Engineer · AI Engineer** — Toronto, Ontario, Canada 🇨🇦
 
-I build **AI-powered products, agentic workflows, and scalable full-stack applications**.
-
-I enjoy taking ideas from **prototype → production**, working across AI, backend, frontend, and cloud infrastructure.
+I build software end to end: AI-powered products, agentic workflows, and full-stack applications — from prototype to production. 6+ years across backend, frontend, and cloud infrastructure, currently focused on LLM applications and agentic AI.
 
 ---
 
-## 🧠 What I Build
+## 🔥 Recent Work
 
-🤖 **AI & Agentic Systems**  
-LLM applications · Agent orchestration · RAG · Vector databases · Prompt engineering
+### 🤖 [payment-assistant](https://github.com/ajayKomirishetty/payment-assistant) — I taught Stripe to understand English
+A full-stack AI payments operations assistant: business owners manage payments, refunds, and invoices in plain language — "refund Maya Johnson's last payment, then send me today's summary" becomes validated Stripe API calls. The LLM interprets intent, deterministic Python validates and executes, and a $2,000 safety rule keeps the AI from getting generous with your money. Customers get their own privacy-preserving Telegram bot that only ever shows them their own data.
 
-⚙️ **Backend & APIs**  
-Ruby on Rails · Node.js · TypeScript · Python · PostgreSQL · Redis
+`Python` `FastAPI` `React` `TypeScript` `OpenAI` `Stripe` `Telegram`
 
-🎨 **Frontend**  
-React · Angular · TypeScript · Vite
+### 🌐 [network-speed](https://github.com/ajayKomirishetty/network-speed) — speed tests for people who fear the terminal
+A Windows desktop app in Rust that wraps iperf3: configure a test, watch live throughput draw itself on a chart, cancel mid-run, and export results to CSV/JSON/TXT. Auto-detects iperf3 (or bring your own binary), handles every failure mode with a human-readable message, and ships as a one-click NSIS installer with iperf3 bundled — no terminal, no setup.
 
-☁️ **Cloud & Infrastructure**  
-AWS · GCP · Docker · Kubernetes · CI/CD
+`Rust` `egui` `NSIS`
 
----
+### 📊 [React-table](https://github.com/ajaykomirishetty/react-table) — a data grid that doesn't choke
+A React 18 + TypeScript table on TanStack Table v8 with virtualized scrolling that stays smooth past 500 rows, sortable computed columns, drag-and-drop header reorder, and localStorage persistence.
 
-## 🚀 Featured Work
+`React` `TypeScript` `TanStack Table` `Vite`
 
-### 🤖 AI-Powered Applications
-Building AI systems that use LLMs, agents, retrieval, and orchestration to automate real-world workflows.
+### 💎 [takehome](https://github.com/ajaykomirishetty/takehome) — JSON in, answers out
+A Ruby script that crunches user and company datasets into token top-ups and email eligibility — paranoid about bad data, deterministic in its sorting, and verified by diffing against expected output.
 
-**Focus:** LLMs · RAG · Agents · Vector DBs · Prompt Engineering
+`Ruby`
 
-### ⚡ Full-Stack Applications
-Production-oriented applications built across frontend, backend, APIs, databases, and cloud infrastructure.
+### 📚 [codecraft-masterclass](https://github.com/lets-learn-with-ajay/codecraft-masterclass) — learn it, then ship it
+Production-ready source code, architecture diagrams, and runnable examples for CodeCraft Masterclass tutorials: LangGraph multi-agent systems, production RAG pipelines, full-stack AI with Next.js 15, Go microservices & concurrency, and distributed system design.
 
-**Focus:** Rails · React · TypeScript · PostgreSQL · Docker
-
-### 🔧 Backend & Distributed Systems
-APIs and backend systems designed with reliability, scalability, and maintainability in mind.
-
-**Focus:** Node.js · TypeScript · Ruby · PostgreSQL · Redis
+`Python` `LangGraph` `Next.js` `Go`
 
 ---
 
-## 💡 How I Think About Engineering
+## 🛠️ Stack
 
-> Build something simple first.  
-> Measure what doesn't work.  
-> Iterate quickly.  
-> Then make it scalable.
-
-I'm especially interested in the intersection of **AI + software engineering + product development**.
+**Languages:** Python · TypeScript · Ruby · JavaScript · Rust · Go
+**Backend:** FastAPI · Node.js · Ruby on Rails · PostgreSQL · Redis · MongoDB
+**Frontend:** React · Angular · Vite
+**AI:** LLM applications · Agentic workflows · RAG · Vector databases · Prompt engineering
+**Cloud & DevOps:** AWS · GCP · Docker · Kubernetes · CI/CD
 
 ---
 
-## 📌 Currently Interested In
+## 📊 GitHub Stats
 
-- Agentic AI & LLM applications
-- RAG and contextual intelligence
-- AI developer tools
-- Distributed backend systems
-- Building products end-to-end
+[![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaykomirishetty&show_icons=true&theme=default)](https://github.com/ajaykomirishetty)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykomirishetty&layout=compact)](https://github.com/ajaykomirishetty)
 
 ---
 
 ## 🤝 Let's Connect
 
-[LinkedIn]([https://www.linkedin.com/in/ajay-komirishetty/]) · [Email](mailto:komirishettyajay@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ajay-komirishetty/)
+- ✉️ komirishettyajay1@gmail.com
+
+---
+
+*Build something simple first. Measure what doesn't work. Iterate quickly. Then make it scalable.*
